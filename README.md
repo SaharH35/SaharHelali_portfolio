@@ -112,7 +112,7 @@ Currently, I am preparing for the **title of actuary** through evening classes a
 - 💡 Tech innovation and emerging technologies
 - 🧑‍🏫 Mentoring and community engagement
 - 🎵 Music
-- 🎌 Enthusiastic about Asian pop culture (anime, K-dramas, music)
+- 🎌 Enthusiastic about Asian pop culture 
 - 🥾 Hiking
 
 
