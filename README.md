@@ -2,14 +2,16 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sahar-helali35/)  
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:helalisahar97@gmail.com)
+📍 Paris, France  
 
 ---
 
 ## 👋 Get to Know Me
 
-Hi! I'm **Sahar Helali**, an engineer specialized in **Data Science** and a consultant in **Actuarial Science**.  
+Hi! I'm **Sahar Helali**, an engineer specialized in **Data Science** and **Actuary**.  
 I have hands-on experience in:
 - Statistical analysis
+- Machine Learning
 - Data modeling
 - Reserving techniques (IFRS 17, Solvency 2)
 - Pricing strategies
@@ -70,25 +72,23 @@ Currently, I am preparing for the **title of actuary** through evening classes a
 
 ## 🎓 Certificates
 
-- **Google Project Management Certificate** *(Expected: 12/2024)*
+- **Google Project Management Certificate** *(12/2024)*
+- **Generative AI: Prompt Engineering Basics by IBM** *(12/2024)*
+- **MLOps | Machine Learning Operations Specialization by Duke University** *(05/2025)*
+
 
 ---
 
 ## 🌈 Hobbies & Interests
 
-- Data Science challenges (Kaggle, Hackathons)
-- Volunteering and communication leadership
-- Financial literacy and sustainable finance
-- Tech innovation and emerging technologies
-- Mentoring and community engagement
+- 🤝 Volunteering and communication leadership
+- 💸 Financial literacy and sustainable finance
+- 💡 Tech innovation and emerging technologies
+- 🧑‍🏫 Mentoring and community engagement
+- 🎵 Music
+- 🎌 Enthusiastic about Asian pop culture (anime, K-dramas, music)
+- 🥾 Hiking
 
----
-
-## 💬 Contact
-
-- 📧 helalisahar97@gmail.com  
-- 📍 Paris, France  
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sahar-helali35/)
 
 ---
 
