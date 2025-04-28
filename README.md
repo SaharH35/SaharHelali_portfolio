@@ -22,11 +22,34 @@ Currently, I am preparing for the **title of actuary** through evening classes a
 
 ## 🎓 Education
 
-- **Master in Actuarial Science** (In progress) — *CNAM Paris*  
-- **Master in Actuarial Science** — *Institut du Risque et de l'Assurance (IRA Le Mans)*  
-- **Engineering Degree in Computer Science** (Data Science specialization) — *ESPRIT Tunis*  
-- **Preparatory Classes in Mathematics and Physics** — *IPEIEM Tunis*  
-- **Baccalaureate in Mathematics** — *Pioneer School of Ariana*
+<details>
+<summary><strong>Master in Actuarial Science</strong> — <em>CNAM Paris</em> (In Progress)</summary>
+- Preparing for the official title of Actuary.
+- Courses: Modern Actuarial Science, Insurance Law, Sustainable Finance.
+</details>
+
+<details>
+<summary><strong>Master in Actuarial Science</strong> — <em>Institut du Risque et de l'Assurance (IRA Le Mans)</em></summary>
+- Big Data actuarial projects and insurance pricing.
+- Life and Non-Life actuarial modeling (R, R Shiny).
+</details>
+
+<details>
+<summary><strong>Engineering Degree in Computer Science</strong> — <em>ESPRIT Tunis</em></summary>
+- Specialized in Data Science.
+- Projects: OCR-based financial analysis, customer churn prediction.
+</details>
+
+<details>
+<summary><strong>Preparatory Classes in Mathematics and Physics</strong> — <em>IPEIEM Tunis</em></summary>
+- Intensive training in mathematics and physics for engineering studies.
+</details>
+
+<details>
+<summary><strong>Baccalaureate in Mathematics</strong> — <em>Pioneer School of Ariana</em></summary>
+- Mathematics specialization at a competitive high school.
+</details>
+
 
 ---
 
@@ -39,6 +62,7 @@ Currently, I am preparing for the **title of actuary** through evening classes a
 - Increased data volume by 30% through an exhaustive data pipeline.
 - Automated data collection and implemented quality monitoring KPIs.
 - Conducted statistical studies on deaths during work stoppage.
+- Created dashboards using Excel and VBA 
 - Reconstructed mortality tables and contributed to group insurance pricing.
 
 </details>
@@ -62,11 +86,13 @@ Currently, I am preparing for the **title of actuary** through evening classes a
 
 ## 🏆 Projects
 
+- **Comparative Study of Reserving Techniques**: Using a simulator of non-life claims data to compare classical reserving methods (Chain Ladder, Bornhuetter Ferguson) against Machine Learning models (Random Forest, Gradient Boosting). Developed using R and R Shiny.
 - **Big Data Actuarial Project**: Claim scoring for auto insurance by commune using Python & PySpark.
 - **Life Insurance Pricing**: Tariff modeling for a retirement product in R.
 - **Motor Insurance Analysis**: Portfolio analysis with R and R Shiny.
 - **Credit Risk Application**: OCR-based financial statement reader and risk modeler in Python/Django.
 - **Customer Churn Prediction**: Attrition modeling for telecoms using Python and Power BI.
+
 
 ---
 
