@@ -1,10 +1,9 @@
 title: Sahar Helali
 email: helalisahar@gmail.com
 description: Welcome to my portfolio website
-"baseurl: "/" 
 #url: "/" 
 #twitter_username:
 #show_downloads : false
-remote_theme: "jekyll/minima@1e8a445"
+theme: jekyll-theme-minimam
 
 #icon: /assets/img/icon.jpg
