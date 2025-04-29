@@ -88,6 +88,7 @@ Currently, I am preparing for the **title of actuary** through evening classes a
 
 - **Comparative Study of Reserving Techniques**: Using a simulator of non-life claims data to compare classical reserving methods (Chain Ladder, Bornhuetter Ferguson) against Machine Learning models (Random Forest, Gradient Boosting). Developed using R and R Shiny.
 - **Big Data Actuarial Project**: Claim scoring for auto insurance by commune using Python & PySpark.
+- **Predictive Cross-Sell Project**: Built a machine learning model to predict auto insurance subscription propensity among existing clients using classification algorithms (Logistic Regression, Random Forest, XGBoost). Tools: Python (scikit-learn, pandas), Power BI, CRISP-DM methodology
 - **Life Insurance Pricing**: Tariff modeling for a retirement product in R.
 - **Motor Insurance Analysis**: Portfolio analysis with R and R Shiny.
 - **Credit Risk Application**: OCR-based financial statement reader and risk modeler in Python/Django.
