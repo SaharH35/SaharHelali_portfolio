@@ -101,6 +101,7 @@ Currently, I am preparing for the **title of actuary** through evening classes a
 
 - **Google Project Management Certificate** *(12/2024)*
 - **Generative AI: Prompt Engineering Basics by IBM** *(12/2024)*
+- **MLOps Machine Learning Operations by Duke University** *(04/2025)*
 - **MLOps Machine Learning Operations Specialization by Duke University** *(05/2025)*
 - **Generative AI Engineering with LLMs Specialization by IBM** *(06/2025)*
 
